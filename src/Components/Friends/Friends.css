@@ -1,0 +1,32 @@
+/* .friends-container{
+    display:flex;
+}
+.friends-name-container{
+    width:70%;
+    background-color: whitesmoke;
+    border: 2px solid gray;
+    margin: 20px 30px;
+    border-radius: 10px;
+}
+.friend{
+    height: 400px;
+    width: 90%;
+    background-color:darkcyan;
+    text-align: center;
+    margin-left:40px;
+    border-radius:10px;
+    margin-bottom: 20px;
+    border: 2px solid gray;
+}
+.friends-img img {
+    height: 200px;
+    width: 200px;
+    border-radius:10px;
+    border:1px solid gray;
+    box-shadow: 2px 2px 5px solid gray;
+}
+
+.add-btn{
+    color:goldenrod;
+    background-color:darkblue;
+} */
